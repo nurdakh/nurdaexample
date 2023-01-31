@@ -60,4 +60,8 @@ public class Cars {
         String info =  this.model + "\t" + this.type + "\t" + this.year;
         return info;
     }
+
+    public void example(){
+        System.out.println("example");
+    }
 }
